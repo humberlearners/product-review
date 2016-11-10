@@ -4,3 +4,4 @@ session stores login
 cookie is stored when remember me is checked
 email is sent to user when sign up
 email is sent to user when enter email in forget password page
+Changed by Akash here
